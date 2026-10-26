@@ -2,7 +2,8 @@
 
 Python analysis of **640K+ retail transactions** across **50 stores** and **200 products** (Jan 2021 – Oct 2025), with an interactive executive dashboard for management.
 
-![Dashboard preview](images/dashboard_preview.png)
+<img width="1400" height="1100" alt="Bluemart retail analysis dashboard" src="https://github.com/user-attachments/assets/4011885b-302e-4d6d-927d-5c06702a705c" />
+
 
 ## Business Problem
 
@@ -74,15 +75,6 @@ Three extra questions came from the inventory data:
 
 Python, pandas, NumPy, Matplotlib, Jupyter Notebook, HTML/JavaScript (dashboard)
 
-## Files
-
-```
-├── Blue_mart_retail_analysis.ipynb
-├── BlueMart_Executive_Dashboard.html
-├── data/        (the four CSV files)
-├── images/      (dashboard preview)
-└── README.md
-```
 
 ## Author
 
